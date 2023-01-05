@@ -43,5 +43,6 @@ for row in fetchdata:
 
 
 # print(records)
+ptint(records)
 
 
